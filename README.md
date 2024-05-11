@@ -1,2 +1,2 @@
 # Projeto_EstufaIA
-Projeto usando IA para analisar imagens das plantas de pepino.
+Projeto usando IA para analisar imagens das plantas de pepino, identificar imagens com os principais estágios de crescimento e o estado de saúde das plantas de pepino em uma estufa com luz natural. O conjunto de dados do estágio de crescimento é dividido em três categorias: inicial, floração e frutificação. O conjunto de dados de saúde é dividido em folhas saudáveis ​​e não saudáveis.
