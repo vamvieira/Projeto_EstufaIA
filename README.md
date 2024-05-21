@@ -10,3 +10,5 @@ Além de demorar ao local e ser necessário pagar um valor para esta visita, meu
 Auxiliando de forma rápida as estufas, não impactando no tempo e principalmente na possivel perda do fruto.
 
 O modelo criado foi baseado em uma estufa de pepino, utilizei fotos de um projeto no Kaggle: Cucumber Greenhouse Dataset
+
+![estufa](https://github.com/vamvieira/Projeto_EstufaIA/assets/71799009/cfae9e1b-86bd-408d-9f75-ae7b1d7f84f2)
